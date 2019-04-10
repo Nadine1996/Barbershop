@@ -1,0 +1,138 @@
+/*header*/
+
+.main-header {
+    background: rgba(0, 128, 0, 0.2);
+    box-shadow: 0 0 0 1px green;
+
+    /* временно для сетки    */
+    min-height: 285px;
+}
+
+.main-navigation{
+    background: rgba(128, 0, 0, 0.2);
+    box-shadow: 0 0 0 1px red;
+}
+
+.main-header-logo {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+
+    /**временно для сетки*/
+    /*display: block;*/
+}
+
+.main-navigation-wrapper{
+    background: rgba(22, 22, 255, 0.52);
+    box-shadow: 0 0 0 1px blue;
+    /*временно для сетки*/
+    min-height: 70px;
+}
+
+.main-navigation-wrapper .container {
+    background: rgba(22, 22, 255, 0.25);
+    box-shadow: 0 0 0 1px #e81aff;
+}
+.site-navigation{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+.user-navigation{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+/*main*/
+.main{
+    background: rgba(0, 128, 0, 0.2);
+    box-shadow: 0 0 0 1px green;
+}
+
+.features-list {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+
+    /*временно для сетки*/
+    min-height: 170px;
+}
+
+.features-item{
+    background: rgba(22, 22, 255, 0.52);
+    box-shadow: 0 0 0 1px blue;
+
+    /*временно для сетки*/
+    min-height: 170px;
+}
+
+.index-columns {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+}
+
+.news {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+
+    /*временно для сетки*/
+    min-height: 315px;
+}
+
+.gallery {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px yellow;
+
+    /*временно для сетки*/
+    min-height: 315px;
+}
+
+.contacts {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px red;
+
+    /*временно для сетки*/
+    min-height: 295px;
+}
+
+.appointment {
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px red;
+
+    /*временно для сетки*/
+    min-height: 340px;
+}
+
+/*footer*/
+
+.main-footer {
+    background: rgba(0, 128, 0, 0.2);
+    box-shadow: 0 0 0 1px green;
+
+    /*временно для сетки*/
+    min-height: 180px;
+}
+
+.footer-contacts{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px red;
+    /*временно для сетки*/
+    min-height: 100px;
+}
+
+.footer-social{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px red;
+    /*временно для сетки*/
+    min-height: 100px;
+}
+
+.footer-copyright{
+    background: rgba(240, 255, 16, 0.2);
+    box-shadow: 0 0 0 1px red;
+    /*временно для сетки*/
+    min-height: 100px;
+}
+
+.main-footer .container{
+    background: rgba(22, 22, 255, 0.25);
+    box-shadow: 0 0 0 1px #e81aff;
+}
